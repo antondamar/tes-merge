@@ -1,8 +1,4 @@
 1. ini ferrel
 2. ini ferrel lagi
 2. ini aristo
-<<<<<<< HEAD
 3. ini ferrel lagi yaampun
-=======
-3. aristo lagi
->>>>>>> 59d5c4a0f28b4332412f217b70c14e01e48b34d7
